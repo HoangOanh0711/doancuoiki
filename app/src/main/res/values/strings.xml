@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">doancuoiki</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="menu_history">History</string>
+    <string name="menu_change">Change Profile</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_term">Terms and Policy</string>
+    <string name="menu_help">Help Center</string>
+    <string name="menu_about">About us</string>
+    <string name="menu_logout">Logout</string>
+
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
 </resources>

@@ -3,6 +3,28 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2078125" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/drawable/btn_bg.xml" value="0.2703125" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/drawable/btn_bg1.xml" value="0.2703125" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/drawable/edittext_bg.xml" value="0.2703125" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2078125" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/drawable/ic_menu.xml" value="0.26666666666666666" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/drawable/ic_security_24.xml" value="0.2703125" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/drawable/ic_setting.xml" value="0.2703125" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/layout/activity_create_account.xml" value="0.25416666666666665" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/layout/activity_dangnhap.xml" value="0.1" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/layout/activity_login.xml" value="0.536" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/layout/activity_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/layout/activity_resetpassword.xml" value="0.25052083333333336" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/layout/activity_screenmain.xml" value="0.2" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/layout/activity_userinfo.xml" value="0.4" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/layout/fragment_profilefragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/layout/layout_header.xml" value="0.25416666666666665" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/layout/screenmain.xml" value="0.264" />
+        <entry key="..\:/Project/android/test/doancuoiki/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
         <entry key="..\:/androidapp/cuoiki/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/androidapp/doancuoiki/app/src/main/res/layout/activity_create_account.xml" value="0.2" />
         <entry key="..\:/androidapp/doancuoiki/app/src/main/res/layout/activity_dangnhap.xml" value="0.176" />

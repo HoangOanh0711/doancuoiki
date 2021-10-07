@@ -10,13 +10,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Doancuoiki">
         <activity
-            android:name=".userinfo"
+            android:name=".menu"
             android:exported="true" />
         <activity
-            android:name=".CreateAccount"
+            android:name=".resetpassword"
             android:exported="true" />
         <activity
-            android:name=".dangnhap"
+            android:name=".signup"
+            android:exported="true" />
+        <activity
+            android:name=".login"
+            android:exported="true" />
+        <activity
+            android:name=".home"
             android:exported="true" />
         <activity
             android:name=".MainActivity"

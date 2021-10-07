@@ -2,20 +2,13 @@ package com.example.doancuoiki;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.app.ActivityOptions;
 import android.content.Intent;
-import android.os.Build;
 import android.os.Bundle;
-import android.util.Pair;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
-import android.widget.ImageView;
-import android.widget.TextView;
 
-import com.google.android.material.textfield.TextInputLayout;
-
-public class dangnhap extends AppCompatActivity {
+public class login extends AppCompatActivity {
 
     Button CallCreate,CallLogin;
 
@@ -23,7 +16,7 @@ public class dangnhap extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
-        setContentView(R.layout.activity_dangnhap);
+        setContentView(R.layout.activity_login);
 
         //Hooks
         CallCreate =(Button) findViewById(R.id.callcreate);
@@ -33,17 +26,18 @@ public class dangnhap extends AppCompatActivity {
         CallCreate.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(dangnhap.this, CreateAccount.class);
+                Intent intent = new Intent(login.this, signup.class);
                 startActivity(intent);
             }
-         });
+        });
 
-       CallLogin.setOnClickListener(new View.OnClickListener() {
-          @Override
+        CallLogin.setOnClickListener(new View.OnClickListener() {
+            @Override
             public void onClick(View view) {
-                Intent intent = new Intent(dangnhap.this, userinfo.class);
+                Intent intent = new Intent(login.this, home.class);
                 startActivity(intent);
             }
-       });
+        });
+
     };
 };
